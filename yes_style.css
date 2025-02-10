@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    margin: 0;
+    background-color: #f9e3e3;
+    /* font-family: 'Arial', sans-serif; */
+    font-family: "Love Ya Like A Sister", serif;
+    padding: 2%;
+}
+
+.container {
+    text-align: center;
+}
+
+.header_text {
+    font-size: 3em;
+    color: #d32f2f;
+}
+
+.gif_container img {
+    width: 85%; 
+    max-width: 500px; 
+    height: auto; 
+}
